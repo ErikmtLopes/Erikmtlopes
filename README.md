@@ -1,8 +1,8 @@
 Hello there, eu sou Erik!!
 
--
--
--
+- Cursando Analise e Desenvolvimento de Sistemas
+- Começando na jordana de developer
+- Buscando novas oportunidades e conexões
 <div align="center">
   <a href="https://github.com/erikmtlopes">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=erikmtlopes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
