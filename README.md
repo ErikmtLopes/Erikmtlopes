@@ -1,7 +1,7 @@
 Hello there, eu sou Erik!!
 
 - Cursando Analise e Desenvolvimento de Sistemas
-- Começando na jordana de developer
+- Começando na jornada de developer
 - Buscando novas oportunidades e conexões
 <div align="center">
   <a href="https://github.com/erikmtlopes">
