@@ -4,6 +4,8 @@
 - Começando na jornada de developer
 - Buscando novas oportunidades e conexões
 - Estudando Html, Css, Python
+
+##
 <div align="center">
   <a href="https://github.com/erikmtlopes">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=erikmtlopes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -12,6 +14,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Erik-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Erik-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Erik-python" height="30" width="40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+
 </div>
 
 ##
