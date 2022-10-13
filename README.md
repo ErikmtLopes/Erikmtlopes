@@ -1,4 +1,4 @@
-## OLÁ! EU SOU O ERIK!
+## Olá! Eu sou o Erik!
 
 - Cursando Analise e Desenvolvimento de Sistemas
 - Começando na jornada de developer
