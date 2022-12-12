@@ -3,7 +3,7 @@
 - Cursando Analise e Desenvolvimento de Sistemas
 - Começando na jornada de developer
 - Buscando novas oportunidades e conexões
-- Estudando HTML, CSS, Python
+- Estudando HTML, CSS, Python, Dart e Flutter 
 
 ##
 <div align="center">
